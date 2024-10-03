@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table>
+        <caption>STUDENT DATA</caption>
+        <tr>
+            <!-- IS USED TO MERGE COLOUMNS IN THE SPAN -->
+            <th colspan="2">
+           INFORMATION
+            </th>
+        </tr>
+
+        <tr>
+            <td>
+                mayank
+            </td>
+            <td>
+                42
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                aditya
+            </td>
+            <td>
+                29
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                khushi
+            </td>
+            <td>
+                22
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
