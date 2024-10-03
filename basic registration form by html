@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- FORM TAG -->
+     <h1>REGISTRATION FORM</h1>
+    <form action="/action.php">
+        <input type="text" placeholder="username">
+        <br>
+        <br>
+        <input type="password" placeholder="password">
+        <br><br>
+        <h3>select you class</h3>
+        <label for="101">
+            <input type="radio" value="class 11" name="class 11" id="101">class 11
+        </label>
+        <br><br>
+        <label for="102">
+            <input type="radio" value="class 12" name="class 12" id="102">class 12
+        </label>
+        <br><br>
+        <h3>select your subject </h3>
+
+        <label for="math">
+            <input type="checkbox" value="math" name="subject" id="101">MATH
+            <br>
+            <label for="physics">
+                <input type="checkbox" value="physics" name="subject" id="102">PHYSICS
+                <br>
+                <label for="chem">
+                    <input type="checkbox" value="chem" name="subject" id="103">CHEM
+                    <br>
+                    <label for="bio">
+                        <input type="checkbox" value="bio" name="subject" id="104">BIO
+
+                    </label>
+                    <br><br>
+                    <select name="city">
+                        <option value="delhi">delhi</option>
+                        <option value="nagpur">nagpur</option>
+                        <option value="banglore">banglore</option>
+                        <option value="mumbai">mumbai</option>
+                        <br>
+                    </select>
+                    <br>
+                    <textarea name="feedback" id="101" placeholder="please give your feedback here" rows="5" coloumns="3" >feedback</textarea>
+
+    </form>
+</body>
+
+</html>
