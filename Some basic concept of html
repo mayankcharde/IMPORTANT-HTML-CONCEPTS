@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <title>my first page</title>
+</head>
+
+<body>
+
+
+
+    <h1>hello mayank!</h1>
+    <hr />
+
+    <p>this is a paragraph</p>
+    <hr />
+
+    <h1>heading</h1>
+    <h2>heading</h2>
+    <h3>heading</h3>
+    <h4>heading</h4>
+    <h5>heading</h5>
+    <h6>heading</h6>
+    <hr />
+
+    <!-- ANCHOR TAG -->
+    <a href=" https://google.com">GOOGLE</a>
+
+    <br />
+    <a href="https://youtube.com">YOUTUBE</a>
+    <br>
+    <hr />
+    <img src="https://www.carandbike.com/_next/image?url=https%3A%2F%2Fimages.carandbike.com%2Fcar-images%2Fbig%2Fhyundai%2Fcreta%2Fhyundai-creta.jpg%3Fv%3D92&w=3840&q=75"
+        alt="car" height="200" />
+    <br />
+    <hr />
+    <b>BOLD</b>
+    <br />
+    <i>ITALIC</i>
+    <br />
+    <u>UNDERLINE</u>
+    <br />
+    <hr />
+
+    <p>
+        <u>HELLO</u> this is my html page!
+    </p>
+    <hr />
+
+    <big>this tag shows big text</big>
+    <br />
+    <small>this tag show small texts</small>
+    <hr />
+
+    <!-- THIS IS SUBSCRIPT TAG -->
+    <p>H<sub>2</sub>0</p>
+    <hr />
+
+    <!-- THIS IS SUPERSCRIPT TAG -->
+    <p>3<sup>2</sup>=9</p>
+    <hr />
+
+    <div>hello world</div>
+    <div>
+        <p>hello world</p>
+    </div>
+
+    <div>
+        <p>hello guys</p>
+        <p>hello bro</p>
+        <p>heyyyyyy</p>
+    </div>
+
+    <div>
+        <span>
+       <p>good morning</p>
+        <p>good night</p>
+        </span>
+    </div>
+
+
+
+</body>
+
+</html>
