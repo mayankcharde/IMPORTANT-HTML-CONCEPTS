@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <pre>
+        <h1>education</h1>
+        <p>projects           projects</p>
+    </pre>
+    </header>
+
+    <main>
+
+        <section>
+            education : montfort school nagpur
+        </section>
+        <section>
+            experince : c++ , java , python
+        </section>
+        <article>
+            my story- .......
+        </article>
+
+        <a href="https://google.com" target="_main"><img
+                src="https://play-lh.googleusercontent.com/6UgEjh8Xuts4nwdWzTnWH8QtLuHqRMUB7dp24JYVE2xcYzq4HA8hFfcAbU-R-PC_9uA1=w600-h300-pc0xffffff-pd"
+                alt="google" height="100" width="150" </a>
+
+            <aside>
+                this is an add
+
+            </aside>
+
+
+
+
+            <footer>
+                <h3>hello user contact me....</h3>
+
+            </footer>
+    </main>
+
+</body>
+</html>
