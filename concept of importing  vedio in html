@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--YT DOESNOT ALLOW TO PLAY VEDIO IN OTHER WEBSITE OR HTML -->
+    <video width="400" height="315" src="https://www.youtube.com/watch?v=HcOc7P5BMi4&t=3808s" controls loop>my vedio</video>
+    
+</body>
+</html>
