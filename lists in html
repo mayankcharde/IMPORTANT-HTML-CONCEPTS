@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header></header>
+    
+    <!-- UNORDERED LIST -->
+    <!-- <main>
+        unordered list -->
+        <ul>  
+            <li>apple</li>
+            <ul>
+                <li>red</li>
+                <li>winter</li>
+            </ul>
+            <li>mango</li>
+            <ul>
+                <li>yellow</li>
+                <li>summer</li>
+            </ul>
+            <li>lichi</li>
+        </ul>
+    </main>
+
+
+     <main>
+        <!-- ordered list -->
+        <ol>  
+            <li>apple</li>
+            <ul>
+                <li>red</li>
+                <li>winter</li>
+            </ul>
+            <li>mango</li>
+            <ul>
+                <li>yellow</li>
+                <li>summer</li>
+            </ul>
+            <li>lichi</li>
+        </ol>
+    </main>
+</body>
+</html>
